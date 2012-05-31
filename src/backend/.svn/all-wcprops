@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/poo-2012-4/!svn/ver/10/sokoban/src/backend
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poo-2012-4/!svn/ver/6/sokoban/src/backend/Tile.java
+END
+Movable.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/Movable.java
+END
+Floor.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/Floor.java
+END
+Box.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/Box.java
+END
+Wall.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/Wall.java
+END
+BombBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/BombBox.java
+END
+Smile.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poo-2012-4/!svn/ver/7/sokoban/src/backend/Smile.java
+END
+Board.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poo-2012-4/!svn/ver/13/sokoban/src/backend/Board.java
+END
+Color.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/Color.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poo-2012-4/!svn/ver/12/sokoban/src/backend/Player.java
+END
+Hole.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/Hole.java
+END
+Cardinal.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/Cardinal.java
+END
+Save.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poo-2012-4/!svn/ver/9/sokoban/src/backend/Save.java
+END
+Colorable.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poo-2012-4/!svn/ver/2/sokoban/src/backend/Colorable.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poo-2012-4/!svn/ver/14/sokoban/src/backend/Game.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poo-2012-4/!svn/ver/3/sokoban/src/backend/Target.java
+END
